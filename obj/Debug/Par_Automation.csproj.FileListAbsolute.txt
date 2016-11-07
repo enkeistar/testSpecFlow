@@ -7,7 +7,6 @@ C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debu
 C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\Par_Auotmation.dll.config
 C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\Par_Auotmation.dll
 C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\Par_Auotmation.pdb
-C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\nunit.framework.dll
 C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\SpecRun.SpecFlowPlugin.dll
 C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\SpecFlow\bin\Debug\TechTalk.SpecFlow.dll

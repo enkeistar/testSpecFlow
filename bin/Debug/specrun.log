@@ -18,9 +18,9 @@ Thread #0: creating new test thread executor for SpecFlow, Version=1.0.0.0, Cult
 Loading SpecRun type 'TechTalk.SpecRun.Framework.TestAssemblyExecutor' from: C:\Users\mrench\Documents\Visual Studio 2015\Projects\SpecFlow\packages\SpecRun.Runner.1.5.2\tools\TechTalk.SpecRun.Framework.Executor.dll
 Thread#0: Test #4/0 is started on thread #0
 Thread#0:B:Given I navigate to the teamliquid website
-Thread#0:T:done: SeleniumSteps.GivenINavigateToTeamliquid() (4.1s)
+Thread#0:T:done: SeleniumSteps.GivenINavigateToTeamliquid() (4.4s)
 Thread#0:B:When I search for 'blah'
-Thread#0:T:done: SeleniumSteps.WhenISearchFor("blah") (0.2s)
+Thread#0:T:done: SeleniumSteps.WhenISearchFor("blah") (0.5s)
 Thread#0:B:Then I should see 'blah' in the search results
 Thread#0:T:blah
 Thread#0:T:DoA's Post about SC2 vs LoL blah blah blah
@@ -38,7 +38,7 @@ Thread#0:Scheduler: get next test for thread
 Thread#:Scheduler: at the end of normal test queue
 Thread#0:Scheduler: enumerator for thread is at end
 Thread#0:Scheduler: No more tests for thread 
-Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 10.2682613 seconds
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 11.1069437 seconds
 Appdomain Disposed
 Thread#-1:Scheduler: get next test for thread
 Thread#:Scheduler: at the end of normal test queue
